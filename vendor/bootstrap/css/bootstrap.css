@@ -4459,11 +4459,13 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-brand {
-  color: rgba(0, 0, 0, 0.9);
+  color: #1565c0;
+  font-weight: 700;
+  font-size: 1.5rem;
 }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  color: rgba(0, 0, 0, 0.9);
+  color: #1565c0;
 }
 
 .navbar-light .navbar-nav .nav-link {

@@ -1,9 +1,4 @@
-/*!
- * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
- */
- header {
+header {
   padding: 156px 0 300px;
   font-family: 'Raleway', sans-serif;
   background-color: #fafafa !important;
@@ -37,9 +32,11 @@ section {
   font-weight: 700 !important;
 }
 
-#about h5{
+#about h6{
   color: #757575 !important;
   font-weight: 400 !important;
+  font-size: 18px;
+  line-height: 1.5rem;
 }
 
 
@@ -58,7 +55,7 @@ section {
 
 #service .list-service{
   margin-top: 2rem;
- margin-bottom: -14rem; 
+ margin-bottom: -13rem; 
 }
 
 #service .img-service{
@@ -137,4 +134,11 @@ footer p{
   color: #757575 !important;  
 }
 
+footer a{
+  color: #757575;  
+}
 
+footer a:hover{
+  color: #757575;  
+  text-decoration: none;
+}
