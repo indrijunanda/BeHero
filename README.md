@@ -8,6 +8,8 @@ BeHero - Free Company Profile Template based on Boostrap 4
 
 **You can review on [BeHero - Demo](https://indrijunanda.github.io/BeHero/)**
 
+!["BeHero Screenshot"](https://indrijunanda.github.io/BeHero/assets/img/screenshots/Screenshot1.png "BeHero Screenshot")
+
 ## Contribution 
 
 Here is how : 
