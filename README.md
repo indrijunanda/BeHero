@@ -4,9 +4,9 @@ BeHero - Free Company Profile Template based on Boostrap 4
 
 -----------------------------------------------------------------
 
-**BeHero** is responsive admin template. Based on Bootstrap 4 Framework. Highly cusmtomizable and easy to use.
+**BeHero** is responsive admin template. Based on Bootstrap 4 Framework. Highly customizable and easy to use.
 
-**You can review on [BeHero - Demo](https://indrijunanda.github.io/BeHero/)**
+**You can review it on [BeHero - Demo](https://indrijunanda.github.io/BeHero/)**
 
 !["BeHero Screenshot"](https://indrijunanda.github.io/BeHero/assets/img/screenshots/Screenshot1.png "BeHero Screenshot")
 
@@ -21,7 +21,7 @@ Here is how :
 
 ## License
 
-BeHero is an open source and that is licensed under **[MIT](http://opensource.org/licenses/MIT)**
+BeHero is an open source and licensed under **[MIT](http://opensource.org/licenses/MIT)**
 
 
 -------------------
